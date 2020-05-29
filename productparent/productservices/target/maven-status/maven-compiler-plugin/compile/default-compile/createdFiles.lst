@@ -1,0 +1,5 @@
+com/pratap/product/dao/ProductDAO.class
+com/pratap/product/dao/ProductDAOImpl.class
+com/pratap/product/dto/Product.class
+com/pratap/product/bo/ProductBO.class
+com/pratap/product/bo/ProductBOImpl.class
