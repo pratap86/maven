@@ -1,2 +1,10 @@
 .DS_Store
 ws/
+productparent/productservices/.settings/org.eclipse.jdt.apt.core.prefs
+productparent/productweb/.settings/org.eclipse.jdt.apt.core.prefs
+profilesdemo/.settings/*
+profilesdemo/target/*
+
+productparent/productservices/.classpath
+productparent/productservices/.settings/*
+productparent/productservices/target/
